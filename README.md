@@ -1,6 +1,13 @@
 # [ACMMM 2026] Harmolight: Multimodal-Guided Diffusion Model for Composite Image Lighting Adaptation via Curriculum Lighting Learning
 
-The code is coming soon.
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://tandaily.github.io/Harmolight-Project/)
+
+### Examples
+![teaser](./assets/teaser_01.png)
+
+### Method
+![method](./assets/pipeline_01.png)
+
 
 ## Citation
 
