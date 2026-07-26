@@ -5,12 +5,19 @@
 ### Examples
 ![teaser](./assets/teaser_01.png)
 
-### Method
+### Method 
 ![method](./assets/pipeline_01.png)
 
+## Todo 
+- [ ] Release training code 
+- [ ] Release testing code 
+- [ ] Release pretrained model 
+- [ ] Release part of the dataset 
+
+## Pretrained Model 
+The pretrained model: [link](https://pan.baidu.com/s/1DzidotH2_WBl8Dfhr7xdtQ)
 
 ## Citation
-
 If you find this work useful, please cite:
 
 ```bibtex
